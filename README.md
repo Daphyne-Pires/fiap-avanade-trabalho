@@ -1,6 +1,6 @@
 ## Integrantes do grupo:
 * Daphyne Pires Vitorino
-* Isabella Cristina Sanchis Silvestre 
+* Isabella Cristina Sanchis Silvestre  :sparkling_heart:
 * José Luiz Fagundes
 * Nathallye Thalya Regina Ferreira
 * Priscila Andrade Neves ✨
