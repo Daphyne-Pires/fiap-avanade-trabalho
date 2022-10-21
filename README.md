@@ -2,7 +2,7 @@
 * Daphyne Pires Vitorino :cupid:
 * Isabella Cristina Sanchis Silvestre  :sparkling_heart:
 * José Luiz Fagundes
-* Nathallye Bacelar
+* Nathallye Bacelar :purple_heart:
 * Priscila Andrade Neves ✨
 * Victor Sérgio Silva Barros
 
