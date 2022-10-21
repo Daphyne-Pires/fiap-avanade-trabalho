@@ -3,7 +3,7 @@
 * Isabella Cristina Sanchis Silvestre
 * José Luiz Fagundes
 * Nathallye Bacelar
-* Priscila Andrade Neves
+* Priscila Andrade Neves ✨
 * Victor Sérgio Silva Barros
 
 ## Instruções para executar projeto local:
