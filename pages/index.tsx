@@ -1,9 +1,8 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import type { NextPage } from 'next';
+import Head from 'next/head';
+import styles from '../styles/Home.module.css';
 import Footer from '../components/Footer';
 import Card from '../components/Card';
-
 
 const Home: NextPage = () => {
   return (
@@ -24,31 +23,31 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          
-          <Card 
-            title={'Erro encontrado'} 
+          <Card
+            title={'Erro encontrado'}
             content={'Não existe mais um erro neste componente. Veja que este bloco aparece igual aos outros.'}/>
-         
-          <Card 
+
+          <Card
             link={'https://nextjs.org/learn'}
-            title={'Crie um repositório'} 
+            title={'Crie um repositório'}
             content={'Após concluir o trabalho suba o código no github do grupo'}/>
- 
-          <Card 
+
+          <Card
             link={'https://github.com/vercel/next.js/tree/canary/examples'}
-            title={'Evite componentes demais'} 
+            title={'Evite componentes demais'}
             content={'Crie somente componentes essenciais.'}/>
-     
-          <Card 
+
+          <Card
             link={'https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app'}
-            title={'Trabalho em grupo'} 
+            title={'Trabalho em grupo'}
             content={'Ajude para que todos do grupo participe, envolva-se.'}/>
         </div>
       </main>
+
       <Footer/>
-  
+
     </div>
   )
 }
 
-export default Home
+export default Home;

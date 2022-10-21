@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import styles from '../../styles/Home.module.css';
 
 type CardProps = {
@@ -13,6 +13,5 @@ export default function Card(props:CardProps) {
       <h2>{props.title}  &rarr;</h2>
       <p>{props.content}</p>
     </a>
-
   )
 }
