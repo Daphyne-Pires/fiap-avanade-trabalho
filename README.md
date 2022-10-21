@@ -3,7 +3,7 @@
 * Isabella Cristina Sanchis Silvestre 
 * José Luiz Fagundes
 * Nathallye Thalya Regina Ferreira
-* Priscila Andrade Neves
+* Priscila Andrade Neves ✨
 * Victor Sérgio Silva Barros
 
 
