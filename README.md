@@ -1,7 +1,7 @@
 ## Integrantes do grupo:
 * Daphyne Pires Vitorino :cupid:
 * Isabella Cristina Sanchis Silvestre  :sparkling_heart:
-* José Luiz Fagundes
+* José Luiz Fagundes :bike:
 * Nathallye Bacelar
 * Priscila Andrade Neves ✨
 * Victor Sérgio Silva Barros :v:
