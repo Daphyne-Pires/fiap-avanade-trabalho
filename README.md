@@ -1,4 +1,4 @@
-## Integrantes do grupo 
+## Integrantes do grupo:
 * Daphyne Pires Vitorino
 * Isabella Cristina Sanchis Silvestre
 * José Luiz Fagundes
@@ -8,7 +8,7 @@
 
 
 
-## Instruções para executar projeto local
+## Instruções para executar projeto local:
 
 1. No terminal faça:
 * `git clone https://github.com/Daphyne-Pires/fiap-avanade-trabalho.git`
