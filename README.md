@@ -2,9 +2,9 @@
 * Daphyne Pires Vitorino :cupid:
 * Isabella Cristina Sanchis Silvestre  :sparkling_heart:
 * José Luiz Fagundes
-* Nathallye Bacelar :purple_heart:
+* Nathallye Bacelar
 * Priscila Andrade Neves ✨
-* Victor Sérgio Silva Barros
+* Victor Sérgio Silva Barros :v:
 
 ## Instruções para executar projeto local:
 
